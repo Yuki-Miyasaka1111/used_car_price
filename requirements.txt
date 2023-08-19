@@ -1,0 +1,16 @@
+ipykernel
+black
+numpy
+pandas
+matplotlib
+japanize_matplotlib
+scipy
+scikit-learn
+geocoder
+requests
+seaborn
+lightgbm
+catboost
+xgboost
+pytorch_tabnet
+imbalanced-learn
